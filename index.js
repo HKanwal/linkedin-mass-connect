@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log("Hello world from my first NPM package!");
+console.log("Hello world from my first NPM package! Test 2");
