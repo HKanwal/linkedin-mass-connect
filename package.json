@@ -4,7 +4,7 @@
   "description": "A utility to connect send connection requests to hirers on LinkedIn en masse.",
   "main": "index.js",
   "bin": {
-    "linkedin-mass-connect": "./index.js"
+    "@hkanwal/linkedin-mass-connect": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
