@@ -1,6 +1,6 @@
 {
   "name": "@hkanwal/linkedin-mass-connect",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A utility to connect send connection requests to hirers on LinkedIn en masse.",
   "main": "index.js",
   "bin": {
