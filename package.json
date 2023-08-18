@@ -3,6 +3,7 @@
   "version": "0.1.4",
   "description": "A utility to send connection requests to hirers on LinkedIn en masse.",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "linkedin-mass-connect": "./index.js"
   },
@@ -10,5 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Harkeerat Kanwal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "open": "^9.1.0"
+  }
 }
